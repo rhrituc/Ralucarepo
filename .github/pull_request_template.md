@@ -2,7 +2,7 @@
 
 
 **Proposed changes**
-Describe the big picture of your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to link the PR to that issue.Also, please add here the link to the issue created.
+Describe your changes here to communicate to the maintainers why we should accept this pull request. If it fixes a bug or resolves a feature request, be sure to paste the link of the issue here. 
 
 **Types of changes**
 What types of changes does your code introduce to C# SDK? Put an x in the boxes that apply
@@ -19,18 +19,11 @@ Put an x in the boxes that apply. You can also fill these out after creating the
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I keep the  pull requests small so they can be easily reviewed
 
 **Testing**
-Please describe:
-1. Where has this changes been tested?
-.NET Framework version: …
-Platform: …
-Target Platform: …
-SDK Version: …
-2. How did you tested your changes?
+ Please type in here the testing instructions. 
 
 **Further comments**
 If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
 
-💔(party)Thank you!
+💔 Thank you!
