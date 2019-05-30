@@ -20,16 +20,16 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Code snippet**
-A code snippet that demonstrates the issue or a link to a code repository the developers can easily pull down to recreate the issue locally
+A code snippet that demonstrates the issue or a link to a code repository the developers can easily pull down to recreate the issue locally.
 
 Note: Because the developers need to copy and paste the code snippet, including a code snippet as a media file (i.e. .gif) is not sufficient.
 
 
-**Environment:**
+**Environment**
  - SDK Version [e.g. 1.1.0]
 - .NET Framework version
 
-**The bug has the severity:**
+**The bug has the severity**
 - [ ] Critical: The defect affects critical functionality or critical data. It does not have a workaround.
 - [ ] Major: The defect affects major functionality or major data. It has a workaround but is not obvious and is difficult.
 - [ ] Minor: The defect affects minor functionality or non-critical data. It has an easy workaround.
